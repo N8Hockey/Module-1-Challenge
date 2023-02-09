@@ -5,7 +5,7 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-I went through the code starter, and where possible, replaced the <div> tags with proper tags such as <section> or <article> or <aside> 
+I went through the code starter, and where possible, replaced the div tags with proper tags such as section, or article, or aside.
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
