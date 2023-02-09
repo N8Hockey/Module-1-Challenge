@@ -21,6 +21,6 @@ THEN I find a concise, descriptive title
 
 In addition to the above changes mentioned, I went through the CSS and eliminated repetitive code where necessary. I changed class descriptions to merge them into one class to apply stylings where possible. I tried on subsequent sections and could not get it to work without messing up the webpage, so in those instances I eliminated repetitive code by using commas to separate the classes, and then applied to same code to each class that way. 
 
-[link](https://n8hockey.github.io/Module-1-Challenge/)
+[Webpage](https://n8hockey.github.io/Module-1-Challenge/)
 
-[link](https://github.com/N8Hockey/Module-1-Challenge.git)
+[Repository](https://github.com/N8Hockey/Module-1-Challenge.git)
